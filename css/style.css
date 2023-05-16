@@ -95,7 +95,7 @@ main {
 	text-transform: uppercase;
 }
 
-.first-product, .second-product, .third-product, .fourth-product {
+.product {
 	position: relative;
 	height: 300px;
 	background-size: cover;
@@ -111,11 +111,10 @@ main {
 }
 .third-product {
 	background-image: url('../img/woman_small.jpg');
-	
 }
 .fourth-product {
 	background-image: url('../img/laptop_small.jpg');
-	}
+}
 
 @media (min-width: 768px) {
 	.burger-icon {
@@ -146,7 +145,6 @@ main {
 		background-image: url('../img/hero_big.jpg');
 	}
 }
-
 
 @media (min-width: 1200px) {
 	.hero-text h1 {
