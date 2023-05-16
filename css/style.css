@@ -151,6 +151,23 @@ main {
 	}
 }
 
+/* kontakt */
+
+.contact {
+	text-align: center;
+}
+.contact h3 {
+	text-transform: uppercase;
+	margin: 20px 0 5px;
+}
+/* footer */
+
+footer {
+	padding: 30px 10px;
+	text-align: center;
+	background-color: #ddd;
+}
+
 @media (min-width: 992px) {
 	.products-box {
 		font-size: 0;
